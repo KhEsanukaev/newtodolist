@@ -1,0 +1,23 @@
+ /* Release 3: Доработка дизайна */
+ body {
+    font-family: Arial, sans-serif;
+    padding-left: 20%;
+}
+#list {
+   
+}
+.todo-item {
+    margin: 10px 0;
+}
+.delete-button {
+    background-color: rgb(231, 223, 223);
+    color: red;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+}
